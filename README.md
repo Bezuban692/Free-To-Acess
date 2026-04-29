@@ -53,7 +53,7 @@ Follow these steps to quickly set up and run the project:
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Bezuban692/Free-To-Acess.git
 
 cd your-repo-name
 
@@ -95,7 +95,7 @@ npm start
 
 For fast setup:
 
-git clone https://github.com/your-username/your-repo-name.git && cd your-repo-name && npm install --force && npm run dev
+git clone https://github.com/Bezuban692/Free-To-Acess.git && npm install --force && npm run dev
 
 ---
 
